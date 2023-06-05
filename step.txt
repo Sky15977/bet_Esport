@@ -1,0 +1,52 @@
+inspi première winamax
+
+diff lang (EN/FR)
+tallbak (malvoyant)
+apli mobile
+nom ?
+
+first page créer son profil, carte d'identité ?
+email &| sms de confirmation
+mise en garde paris sportif + n° d'aide
+
+           header:
+    nav_link:
+connection utilisateur a droite
+logo mid
+menu déroulant a gauche
+     else:
+logo
+accueil
+choisis ton sport
+profil
+support
+
+            body:
+      choisis ton jeu:
+image pour selectioner le jeu && barre de recherche
+image agrandi quand souris au-dessus
+puis
+liste de tout les match a venir
+bouton a gauche du match pour parier sur l'équipe A
+bouton a droite du match pour parier sur l'équipe B
+if pari visuel sur la liste
+pari clo au commencement du match
+résultat 1h après fin du match ??
+
+            footer:
+      Aide:
+FAQ
+mode d'emploi
+service client
+      Bonus:
+Premier dépôt
+Parrainer un ami
+      Partenaire:
+liste et site affiliés ou sponso
+      A propos
+Conditions général d'ulisations
+info société
+Offres d'emploi ?
+politiques de confidentialités
+      Cookies
+gestion des cookies
