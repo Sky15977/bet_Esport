@@ -1,0 +1,14 @@
+.form {
+    border: 2px solid black;
+    padding: 2rem;
+    width: 500px;
+    margin: 1rem auto;
+}
+
+.form input {
+    width: 100%;
+}
+.form label {
+    display: block;
+    text-align: center;
+}
