@@ -12,6 +12,6 @@ async function bootstrap() {
   app.setBaseViewsDir(views);
   app.useStaticAssets(join(path, "public"));
   app.setViewEngine("ejs");
-  await app.listen(3000);
+  await app.listen(8080);
 }
 bootstrap();
